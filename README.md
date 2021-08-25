@@ -8,6 +8,15 @@ LCD script is trash right now, I need to restore my working copy from another ma
 
 
 
+To Do:
+- ESP8266 support
+- Logging
+- Support other sensors
+- Buttons for cycling units
+- Diagrams and images
+
+
+
 
 Attribution:
 https://github.com/makerportal/rpi-pico-ssd1306
